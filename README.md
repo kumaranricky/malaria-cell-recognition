@@ -1,5 +1,8 @@
-# Deep Neural Network for Malaria Infected Cell Recognition
+### EXP NO: 04
 
+### .
+
+# <p align = "center"> Deep Neural Network for Malaria Infected Cell Recognition </p>
 ## AIM
 
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
@@ -22,7 +25,11 @@ Write your own steps
 
 ## PROGRAM
 
-Include your code here
+```python
+# Developed By:KUMARAN.B
+# Register Number:212220230026
+
+```
 
 ## OUTPUT
 
